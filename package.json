@@ -1,8 +1,8 @@
 {
   "name": "@molutions/accordion",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a ui react accordion component",
-  "main": "dist/MyComponent.js",
+  "main": "dist/accordion.js",
   "module": "index.js",
   "files": ["dist"],
   "scripts": {
